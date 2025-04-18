@@ -1,0 +1,50 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Git Notes",
+    "home_page_url": "https://gavinw.me/git-notes",
+    "feed_url": "https://gavinw.me/git-notes/feed.json",
+    "items": [
+        {
+            "id": "https://gavinw.me/git-notes/./gitlab/runner.html",
+            "url": "https://gavinw.me/git-notes/./gitlab/runner.html",
+            "title": "Setup GitLab Runner on Ubuntu",
+            "date_published": "2025-04-17T00:00:00Z",
+            "content_html": "<p>Steps to install a GitLab runner on an Ubuntu machine.</p><p><a href=\"https://gavinw.me/git-notes/./gitlab/runner.html\">Continue reading...</a></p>"
+        },
+        {
+            "id": "https://gavinw.me/git-notes/./commands/undo.html",
+            "url": "https://gavinw.me/git-notes/./commands/undo.html",
+            "title": "Undo Changes",
+            "date_published": "2025-04-17T00:00:00Z",
+            "content_html": "<p>Undo an accidental git pull.</p><p><a href=\"https://gavinw.me/git-notes/./commands/undo.html\">Continue reading...</a></p>"
+        },
+        {
+            "id": "https://gavinw.me/git-notes/./commands/config.html",
+            "url": "https://gavinw.me/git-notes/./commands/config.html",
+            "title": "Configuration",
+            "date_published": "2025-04-17T00:00:00Z",
+            "content_html": "<p>Set global username and email address.</p><p><a href=\"https://gavinw.me/git-notes/./commands/config.html\">Continue reading...</a></p>"
+        },
+        {
+            "id": "https://gavinw.me/git-notes/./commands/log.html",
+            "url": "https://gavinw.me/git-notes/./commands/log.html",
+            "title": "Log Commands",
+            "date_published": "2025-04-17T00:00:00Z",
+            "content_html": "<p>Limit log output to only show four commits.</p><p><a href=\"https://gavinw.me/git-notes/./commands/log.html\">Continue reading...</a></p>"
+        },
+        {
+            "id": "https://gavinw.me/git-notes/./commands/branch.html",
+            "url": "https://gavinw.me/git-notes/./commands/branch.html",
+            "title": "Branch and Remote Commands",
+            "date_published": "2025-04-17T00:00:00Z",
+            "content_html": "<p>Rename a local branch.</p><p><a href=\"https://gavinw.me/git-notes/./commands/branch.html\">Continue reading...</a></p>"
+        },
+        {
+            "id": "https://gavinw.me/git-notes/./commands/commit.html",
+            "url": "https://gavinw.me/git-notes/./commands/commit.html",
+            "title": "Commit Changes",
+            "date_published": "2025-04-17T00:00:00Z",
+            "content_html": "<p>Change last commit message.</p><p><a href=\"https://gavinw.me/git-notes/./commands/commit.html\">Continue reading...</a></p>"
+        }
+    ]
+}
