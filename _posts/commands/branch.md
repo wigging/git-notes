@@ -1,5 +1,5 @@
 ---
-title: "Branches"
+title: Branch and Remote Commands
 date: April 17, 2025
 ---
 

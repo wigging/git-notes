@@ -1,5 +1,5 @@
 ---
-title: "Logging"
+title: Log Commands
 date: April 17, 2025
 ---
 
