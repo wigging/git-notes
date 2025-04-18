@@ -3,6 +3,9 @@ title: Log Commands
 date: April 17, 2025
 ---
 
-Here.
+Limit log output to only show four commits.
 
-Done.
+```
+git log -4
+git log --oneline -4
+```

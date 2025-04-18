@@ -32,3 +32,17 @@ Change the URL associated with the remote repository named origin.
 ```
 git remote set-url origin https://github.com/wigging/macdevs.git
 ```
+
+Merge the develop branch into main branch and squash the commits to a single commit.
+
+```
+git checkout main
+git merge --squash develop
+git commit -m 'The single commit message'
+```
+
+Show files that were added, modified, or deleted for most recent commit.
+
+```
+git show --name-status
+```
